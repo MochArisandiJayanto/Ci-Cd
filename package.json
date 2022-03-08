@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homapage": "https://mocharisandijayanto.github.io/Ci-Cd/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
